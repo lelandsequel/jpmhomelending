@@ -1,0 +1,35 @@
+{
+  "title": "MortgageOps — Home Lending Portfolio Control Tower",
+  "tagline": "Portfolio-level visibility and execution control for home lending operations.",
+  "category": "Fintech Ops",
+  "proof": "I can design portfolio control systems that surface delivery risk early and help leaders intervene before SLAs and customers are impacted.",
+
+  "company": "JPMorgan Chase (Hypothetical)",
+  "role": "Product Management & Systems Design",
+
+  "problem": "Home lending portfolios span dozens of programs across origination, underwriting, closing, and funding. Status is fragmented across tools, risks surface late, and leadership lacks a single operational truth for intervention.",
+
+  "impact": [
+    "Earlier visibility into SLA and delivery risk across the lending portfolio.",
+    "Reduced firefighting by highlighting bottlenecks before they cascade.",
+    "Clear, shared operational narrative for product, technology, and ops leadership."
+  ],
+
+  "liveUrl": "https://mortgageops.vercel.app",
+  "repoUrl": "https://github.com/lelandsequel/mortgageops",
+
+  "tags": [
+    "Home Lending",
+    "Portfolio Operations",
+    "Technical Program Management",
+    "Internal Tools",
+    "Fintech"
+  ],
+
+  "year": "2025",
+
+  "description": [
+    "MortgageOps is a hypothetical internal control tower for JPMorgan Chase Home Lending.",
+    "It provides executives and portfolio operators with a real-time view of execution health, bottlenecks, and intervention levers across the lending lifecycle."
+  ]
+}

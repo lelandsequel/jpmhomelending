@@ -1,0 +1,4 @@
+[00:18:04.967] Server  ERROR   Error: ENOENT: no such file or directory, scandir '/Users/sokpyeon/JPMHome/Moneybox Anti/src/app'
+[00:18:04.968] Server  ERROR    ⨯ "unhandledRejection:" Error: ENOENT: no such file or directory, scandir '/Users/sokpyeon/JPMHome/Moneybox Anti/src/app'
+[00:18:04.969] Server  ERROR    ⨯ "unhandledRejection: " Error: ENOENT: no such file or directory, scandir '/Users/sokpyeon/JPMHome/Moneybox Anti/src/app'
+[00:18:05.489] Server  LOG      ✓ Compiled in 551ms
