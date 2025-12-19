@@ -1,4 +1,4 @@
-# MortgageOps — Home Lending Portfolio Control Tower
+# JPMHomeLending — Home Lending Portfolio Control Tower
 
 Portfolio-level visibility and execution control for home lending operations.
 A hypothetical internal tool for JPMorgan Chase Home Lending.
